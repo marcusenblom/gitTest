@@ -1,1 +1,1 @@
-console.log('Word on the street is that blomman got a fat cock')
+console.log('Word on the street is that Charlie is a fucking retard')
